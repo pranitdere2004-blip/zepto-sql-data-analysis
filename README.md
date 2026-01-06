@@ -81,5 +81,5 @@ LIMIT 10:
 
 ## Author:
 **Pranit Dere**  
-GitHub: https://github.com/pranitdere2004-blip/zepto-sql-data-analysis/edit/main/README.md
+GitHub: https://github.com/pranitdere2004-blip/zepto-sql-data-analysis
 
